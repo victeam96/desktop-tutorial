@@ -1,0 +1,14 @@
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\bin\Debug\net10.0\SeriaLazacaoDrone.exe
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\bin\Debug\net10.0\SeriaLazacaoDrone.deps.json
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\bin\Debug\net10.0\SeriaLazacaoDrone.runtimeconfig.json
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\bin\Debug\net10.0\SeriaLazacaoDrone.dll
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\bin\Debug\net10.0\SeriaLazacaoDrone.pdb
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.AssemblyInfoInputs.cache
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.AssemblyInfo.cs
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.csproj.CoreCompileInputs.cache
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.dll
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\refint\SeriaLazacaoDrone.dll
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.pdb
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\SeriaLazacaoDrone.genruntimeconfig.cache
+C:\Users\EBC8NL116\Desktop\SeriaLazacaoDrone\obj\Debug\net10.0\ref\SeriaLazacaoDrone.dll
